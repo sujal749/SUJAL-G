@@ -41,4 +41,4 @@
 
  * Commit
  - Tracking/adding
- - comiting
+ - comiti
